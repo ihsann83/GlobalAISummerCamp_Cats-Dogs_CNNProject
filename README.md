@@ -8,7 +8,7 @@ Then, I checked the sizes of the images and resize them as (128,128,3)
 
 I rescaled them.
 
-# Image Man ipulation
+# Image Manipulation
 
 I used ImageDataGenerator to get more data in order to make a better prediction, because deep learning needs more data.
 
